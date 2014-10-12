@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  It is always safer to store a backup of your files on a remote repository. and it is very useful if you have a centralized repository when multiple people are working a single code repository.
